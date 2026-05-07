@@ -64,6 +64,22 @@ Este arquivo define o processo basico para usar o Oraculo durante a escrita.
 | Insercao no Google Docs | Codex + Google Drive |
 | Changelog | Codex + Google Drive |
 
+## Executor local
+
+O script `oraculo/run_oraculo.py` executa o fluxo local de modelo:
+
+- tarefas `brainstorm`, `revisao-canone` e `changelog` usam OpenAI/API por padrao;
+- tarefa `cena-sultry` usa LM Studio/Sultry por padrao;
+- o script le `.env`, mas nunca deve imprimir chaves;
+- saidas longas podem ser salvas em `02_capitulos/` com `--output`.
+
+Exemplos:
+
+```bash
+python3 oraculo/run_oraculo.py brainstorm "estrutura do Capitulo III" --output 02_capitulos/cap_iii_estrutura.md
+python3 oraculo/run_oraculo.py cena-sultry "editar cena adulta aprovada" --provider lmstudio --output 02_capitulos/cena_editada.md
+```
+
 ## Regra de cenas adultas
 
 Cenas sexuais ou explicitamente sensuais so podem envolver personagens adultos. Personagens menores de idade nunca entram nesse modo.
