@@ -10,6 +10,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -73,10 +74,19 @@ def post_json(url: str, headers: dict[str, str], payload: dict) -> dict:
         with urllib.request.urlopen(request, timeout=180) as response:
             return json.loads(response.read().decode("utf-8"))
     except urllib.error.HTTPError as exc:
-        detail = exc.read().decode("utf-8", errors="replace")
+        detail = sanitize_error(exc.read().decode("utf-8", errors="replace"))
         raise RuntimeError(f"HTTP {exc.code}: {detail}") from exc
     except urllib.error.URLError as exc:
         raise RuntimeError(f"Falha de conexao: {exc.reason}") from exc
+
+
+def sanitize_error(text: str) -> str:
+    """Remove possible secrets echoed by provider error messages."""
+    text = re.sub(r"sk-[A-Za-z0-9_\-]+", "sk-REDACTED", text)
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if api_key:
+        text = text.replace(api_key, "OPENAI_API_KEY_REDACTED")
+    return text
 
 
 def call_openai(prompt: str) -> str:
