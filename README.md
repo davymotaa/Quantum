@@ -34,3 +34,7 @@ python3 oraculo/run_oraculo.py brainstorm "estrutura do Capitulo III" --output 0
 ## Documentos principais
 
 O mapa completo de documentos do Google Drive fica em `oraculo/docs.json`.
+
+## Novo chat
+
+Para continuar em outro chat, use `HANDOFF.md`. Ele contem o bloco de contexto operacional que deve ser colado no chat novo.
