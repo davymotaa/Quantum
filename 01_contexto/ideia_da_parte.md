@@ -1,0 +1,1 @@
+Escreva uma cena curta de teste com dois personagens conversando sobre uma decisão difícil. Tom emocional, cinematográfico e com diálogos naturais.

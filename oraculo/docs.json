@@ -1,0 +1,81 @@
+{
+  "project": "QUANTUM",
+  "drive_root": {
+    "label": "Pasta raiz compartilhada",
+    "url": "https://drive.google.com/drive/folders/1aTb8aUDZGGJ2y4qdVYsT2NcToDv4aiZN"
+  },
+  "oraculo_folder": {
+    "label": "Quantum/Oraculo",
+    "url": "https://drive.google.com/drive/folders/1EB_UsE5-9Dxf7o7eZLV21iKFnQCa5voi"
+  },
+  "source_documents": {
+    "regras_orquestracao": {
+      "title": "QUANTUM_ORACULO__00_REGRAS_DE_ORQUESTRACAO",
+      "url": "https://docs.google.com/document/d/1EjFwzsrUazAJK0RWI9yCWdp82Ke6qbf1MJd0c1_SDv4",
+      "role": "Define o fluxo, roteamento de modelos e regra de changelog."
+    },
+    "canone_atual": {
+      "title": "QUANTUM_ORACULO__01_CANONE_ATUAL",
+      "url": "https://docs.google.com/document/d/1e4aqx3FC9uSqOUpWbjbP6wzDE9qzFv5fQ2xwK5xcFnk",
+      "role": "Fonte principal de continuidade e estado canônico."
+    },
+    "changelog_canone": {
+      "title": "QUANTUM_ORACULO__01_CHANGELOG_CANONE",
+      "url": "https://docs.google.com/document/d/1JF4rYl3BPR5yhmlhgHdZqz_XTbv51CNEVdTaaFESLCc",
+      "role": "Historico de mudancas de canone."
+    },
+    "personagens_atual": {
+      "title": "QUANTUM_ORACULO__02_PERSONAGENS_ATUAL",
+      "url": "https://docs.google.com/document/d/1r_gu-yg5hX1MF86TaJUP1zHExpJ9Y3OKBlxOiFV9734",
+      "role": "Fonte principal de personagens, vozes e relacoes."
+    },
+    "changelog_personagens": {
+      "title": "QUANTUM_ORACULO__02_CHANGELOG_PERSONAGENS",
+      "url": "https://docs.google.com/document/d/1TDWHWYL-ygOYh3EmNYTvtmyUqNt0TZ5MM6FWJ4Q28rQ",
+      "role": "Historico de mudancas de personagens."
+    },
+    "padrao_escrita": {
+      "title": "QUANTUM_ORACULO__03_PADRAO_DE_ESCRITA",
+      "url": "https://docs.google.com/document/d/1wMRhRO2WOhk1eWRlSovGfLVxdy-88v68uR-H1H0TeGs",
+      "role": "Regua de estilo, idioma, tom, dialogo e formato."
+    },
+    "changelog_estilo": {
+      "title": "QUANTUM_ORACULO__03_CHANGELOG_ESTILO",
+      "url": "https://docs.google.com/document/d/1ZNdPy-h6KBhXZqyQuRzL1EfyY9g-WlkL8hmrIaTGMEo",
+      "role": "Historico de mudancas de estilo."
+    },
+    "estado_atual": {
+      "title": "QUANTUM_ORACULO__04_ESTADO_ATUAL",
+      "url": "https://docs.google.com/document/d/1jX93rH0KaKdzBTjo6CVOzoU6EqUhYCtdwz11JtMvkgU",
+      "role": "Estado operacional da historia para a proxima escrita."
+    },
+    "changelog_geral": {
+      "title": "QUANTUM_ORACULO__99_CHANGELOG_GERAL",
+      "url": "https://docs.google.com/document/d/1LUHULmXCjrTa1s6PDS6shh5PYTbWDKSClm2Zy8C4OPI",
+      "role": "Historico transversal e destinos de producao."
+    }
+  },
+  "output_documents": {
+    "volume_4_final": {
+      "title": "QUANTUM - VOL IV",
+      "url": "https://docs.google.com/document/d/1-BwgZEy83W_B8OvziGCMvwLpI2CdQ99m6ZjyEVvaqbo",
+      "role": "Documento final do Volume IV. Nome definitivo do volume ainda indefinido."
+    }
+  },
+  "draft_documents": {
+    "vol_4_cap_1_part_2": {
+      "title": "QUANTUM_RASCUNHO__VOL_IV_CAP_I_PARTE_2",
+      "url": "https://docs.google.com/document/d/1yDnvWr3lO_Bw-6ix4lEt7sRleoTxMO892hHChzz4Qks",
+      "role": "Documento temporario para gerar, editar e montar a Parte 2 do Capitulo I antes de inserir no documento final."
+    },
+    "vol_4_cap_2_part_1": {
+      "title": "QUANTUM_RASCUNHO__VOL_IV_CAP_II_PARTE_1",
+      "url": "https://docs.google.com/document/d/1nPGSu0wanIWFA1gp6Kk7y45wILZX7XwJtinhocIRmes",
+      "role": "Documento temporario para gerar, editar e montar a Parte 1 do Capitulo II antes de inserir no documento final."
+    }
+  },
+  "local_sources": {
+    "context_folder": "01_contexto",
+    "latest_canon_imported_from": "/Users/davy/Downloads/QUANTUM_CANON_UNICO mais recente.md"
+  }
+}
