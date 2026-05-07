@@ -97,3 +97,38 @@
 - Fury/SWORD começam a discutir possíveis jovens com poderes além de Toro, Jasper e Polka, incluindo Erik Svanberg e Aminata Diop.
 - A decisão sobre esses jovens é cautelosa: sem designação de time, sem campo, sem introduções surpresa, com estabilidade médica, estabilidade de Mateus e consentimento em cada etapa.
 - Próximo estado: família em Queens depois de um dia de escala pública, crise médica e reunião institucional ainda em contenção. O Cap III deve partir de consequência, descanso, rotina ou cautela institucional, não de equipe jovem já formada.
+
+---
+
+## Vol IV — Cap III — Planejamento
+
+**Título de trabalho:** `O Que Responde`.
+
+O Capítulo III deve ter fôlego de capítulo grande, comparável ao Capítulo I em tamanho e densidade. A estrutura atual não é apenas "cena quente + teste"; ela sustenta três movimentos:
+
+- normalidade rachada em Queens;
+- corpo/intimidade como aterramento depois de Mateus ser tratado como fenômeno;
+- escala nova escapando do controle.
+
+Eixos definidos:
+
+- Queens na manhã seguinte ao Cap II: Toro atrasado e com álgebra pendente, Peter entre NYU/patrulha/café, Mateus bem demais, a casa tentando voltar ao normal.
+- Compound: Bruce e Shuri investigam o pulso no fio residual da mãe de Toro, o `something answered` e Mateus ouvindo Toro sem procurar.
+- Mateus propõe testes; Bruce resiste; Shuri defende que é necessário. Os testes devem ser grandiosos e inteligentes, medindo alcance, latência, matéria complexa, distância, desastre simulado e assinatura isolada do fio residual.
+- Resultado técnico provisório: o poder de Mateus foi ampliado em cerca de 10x pelo toque do desconhecido, mas o dado mais grave é a redução da distância entre intenção consciente e resposta automática.
+- Fim da tarde: Mateus avisa Toro que vai dormir no Compound e prefere que Toro durma lá também, em quarto separado; de manhã leva Toro para a escola pelo quântico.
+- Peter recebe a mensagem e chega depois da patrulha. A cena íntima adulta no quarto de Mateus usa o corpo e o desejo como aterramento narrativo, conectando o presente aos "old times" do Volume I.
+- Manhã no Compound: rotina com Toro, Peter, Jasper, Polka, Torres e Romanoff; Mateus leva Toro à escola pelo quântico.
+- Reunião com Fury: eles podem convocar jovens, mas ainda sem time, campo ou promessa heroica. Erik Svanberg deve morar no Compound; Aminata Diop terá os pais trazidos para Nova York com suporte da SWORD.
+
+Final definido:
+
+- Em Queens, o corpo de Mateus cobra a conta.
+- Ele convulsiona ou quase convulsiona, não como doença comum, mas como sobrecarga de interface.
+- A roupa comum troca de fato para o uniforme preto conhecido de `Quantum`.
+- O contorno preto aparece primeiro.
+- As linhas douradas começam a estalar como conexões vivas, algo que já existia no uniforme, mas agora alto demais.
+- O dourado se espalha pelas linhas, invade fibras, capa, peito e mãos.
+- O preto vai sendo tomado pelo dourado até Mateus ficar dourado, dourado, dourado, quase um ponto de luz.
+- O dourado deve ser quente e interno, diferente do dourado frio/imperial ligado a Ferur.
+- O gancho: `Quantum` deixa de ser apenas designação operacional e começa a virar manifestação física.
